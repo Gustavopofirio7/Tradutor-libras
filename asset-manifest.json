@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tradutor-libras/static/css/main.a8d52f69.css",
+    "main.js": "/Tradutor-libras/static/js/main.a8d7df7e.js",
+    "static/js/453.79aa8ece.chunk.js": "/Tradutor-libras/static/js/453.79aa8ece.chunk.js",
+    "index.html": "/Tradutor-libras/index.html",
+    "main.a8d52f69.css.map": "/Tradutor-libras/static/css/main.a8d52f69.css.map",
+    "main.a8d7df7e.js.map": "/Tradutor-libras/static/js/main.a8d7df7e.js.map",
+    "453.79aa8ece.chunk.js.map": "/Tradutor-libras/static/js/453.79aa8ece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d52f69.css",
+    "static/js/main.a8d7df7e.js"
+  ]
+}
